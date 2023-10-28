@@ -1,0 +1,51 @@
+/* bootstrap */
+
+@import "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
+/* google fonts */
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700;800&display=swap");
+
+/* Core variables */
+
+@import "../scss/base/vars";
+
+/* mixins */
+
+@import "../scss/base/mixins";
+
+/* reset */
+
+@import "../scss/base/reset";
+
+/* glubal-rules */
+
+@import "../scss/base/glubal-rules";
+
+/* Demo Page styles */
+
+@import "../scss/components/header";
+
+@import "../scss/components/index";
+
+@import "../scss/components/about";
+
+@import "../scss/components/blog-details";
+
+@import "../scss/components/blog";
+
+@import "../scss/components/check-out";
+
+@import "../scss/components/contacts";
+
+@import "../scss/components/shop-details";
+
+@import "../scss/components/shop";
+
+@import "../scss/components/shopping-cart";
+
+@import "../scss/components/footer";
+
+@import "../scss/components/join-us";
+
+@import "../scss/components/sign-in";
